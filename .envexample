@@ -1,0 +1,5 @@
+api_key=<your OpenAI API key>
+TOKEN=<your Discord bot token>
+channel_id=<Discord channel ID>
+faisal_id=<Faisal's Discord ID>
+mohammed_id=<Mohammed's Discord ID>
