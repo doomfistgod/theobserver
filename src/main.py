@@ -13,7 +13,6 @@ mohammed = (os.getenv('mohammed_id'))
 faisal = (os.getenv('faisal_id'))
 model_id = 'gpt-3.5-turbo'
 
-print(openai.api_key)
 
 
 
